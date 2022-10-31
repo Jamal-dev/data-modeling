@@ -1,0 +1,11 @@
+Song Table
+
+RangeIndex: 1 entries, 0 to 0
+Data columns (total 5 columns):
+song_id      1 non-null object
+title        1 non-null object
+artist_id    1 non-null object
+year         1 non-null int64
+duration     1 non-null float64
+dtypes: float64(1), int64(1), object(3)
+memory usage: 120.0+ bytes

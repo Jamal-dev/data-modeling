@@ -1,0 +1,14 @@
+Songsplay Table
+
+RangeIndex: 330 entries, 0 to 329
+Data columns (total 8 columns):
+ts           330 non-null datetime64[ns]
+userId       330 non-null object
+level        330 non-null object
+songid       0 non-null object
+artistid     0 non-null object
+sessionId    330 non-null int64
+location     330 non-null object
+userAgent    330 non-null object
+dtypes: datetime64[ns](1), int64(1), object(6)
+memory usage: 20.7+ KB

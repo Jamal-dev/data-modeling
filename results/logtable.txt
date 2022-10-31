@@ -1,0 +1,24 @@
+Log Table
+
+RangeIndex: 388 entries, 0 to 387
+Data columns (total 18 columns):
+artist           330 non-null object
+auth             388 non-null object
+firstName        376 non-null object
+gender           376 non-null object
+itemInSession    388 non-null int64
+lastName         376 non-null object
+length           330 non-null float64
+level            388 non-null object
+location         376 non-null object
+method           388 non-null object
+page             388 non-null object
+registration     376 non-null float64
+sessionId        388 non-null int64
+song             330 non-null object
+status           388 non-null int64
+ts               388 non-null datetime64[ns]
+userAgent        376 non-null object
+userId           388 non-null object
+dtypes: datetime64[ns](1), float64(2), int64(3), object(12)
+memory usage: 54.6+ KB

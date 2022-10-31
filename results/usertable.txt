@@ -1,0 +1,11 @@
+User Table
+
+Int64Index: 330 entries, 0 to 387
+Data columns (total 5 columns):
+userId       330 non-null object
+firstName    330 non-null object
+lastName     330 non-null object
+gender       330 non-null object
+level        330 non-null object
+dtypes: object(5)
+memory usage: 15.5+ KB

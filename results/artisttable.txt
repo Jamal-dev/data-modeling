@@ -1,0 +1,11 @@
+Artists Table
+
+RangeIndex: 1 entries, 0 to 0
+Data columns (total 5 columns):
+artist_id           1 non-null object
+artist_name         1 non-null object
+artist_location     1 non-null object
+artist_latitude     0 non-null float64
+artist_longitude    0 non-null float64
+dtypes: float64(2), object(3)
+memory usage: 120.0+ bytes
